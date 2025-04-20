@@ -3,10 +3,6 @@
 **Languages and Tools:**  
 [![Skills](https://skillicons.dev/icons?i=java,git,github)](#)
 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_logo_and_wordmark.svg" alt="Java Logo" width="150"/>
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="50"/>
-
 ## 🌟 Sobre Este Projeto
 
 Este repositório contém um conjunto de projetos que estou desenvolvendo para aprender a programar em Java. São projetos bem simples, mas vou tentar imprementá-los a medida que eu for aprendendo mais.

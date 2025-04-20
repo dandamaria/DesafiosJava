@@ -1,5 +1,9 @@
 # 🎉 Conjunto de Projetos Iniciantes em Java 🎉
 
+**Languages and Tools:**  
+[![Skills](https://skillicons.dev/icons?i=java,git,github)](#)
+
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_logo_and_wordmark.svg" alt="Java Logo" width="150"/>
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="50"/>
 
